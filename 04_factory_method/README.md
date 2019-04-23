@@ -3,3 +3,5 @@
 工厂方法模式使用子类的方式延迟生成对象到子类中实现。
 
 Go中不存在继承 所以使用匿名组合来实现
+
+提供原材料获取产品，与simple_factory的不同，simple_factory相当于点菜，factory_mothod相当于直接提供材料给cooker
